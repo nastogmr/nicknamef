@@ -171,7 +171,7 @@ client.on('ready', () => {
       console.log(`ON ${client.guilds.size} Servers '     xR1Server' `);
     console.log(`----------------`);
   console.log(`Logged in as ${client.user.tag}!`);
-client.user.setGame(`xR1 Protection☠️`,"https://www.twitch.tv/Mdax77xR1")
+client.user.setGame(`〖⁹⁹⁹〗 Protection☠️`,"https://www.twitch.tv/Mdax77xR1")
 client.user.setStatus("online")
  
 });
